@@ -1,0 +1,220 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/i2n2z/Documents/Projects/my-t3-app/src/" . "pages/")
+ ("/Users/i2n2z/Documents/Projects/my-t3-app/" . "src/")
+ ("/Users/i2n2z/Documents/Projects/my-app/" . "src/")
+ ("/Users/i2n2z/.emacs.d/" . "config/")
+ ("/Users/i2n2z/Documents/Projects/vue-project/src/" . "components/")
+ ("/Users/i2n2z/Documents/Projects/vue-project/" . "src/")
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/" . "examples/")
+ ("/Users/i2n2z/Documents/Documentation/vuejs/" . "src/")
+ ("/Users/i2n2z/Documents/Documentation/" . "vuejs/")
+ ("/Users/i2n2z/Documents/vuejs.org/src/" . "menu/")
+ ("/Users/i2n2z/Documents/vuejs.org/" . ".github/")
+ ("/Users/i2n2z/Documents/Projects/text-editor/" . "src/")
+ ("/Users/i2n2z/Documents/Projects/" . "my-t3-app/")
+ ("/Users/" . "i2n2z/")
+ ("/Users/i2n2z/Documents/CITS1401/Project-1/" . "__pycache__/")
+ ("/Users/i2n2z/Documents/CITS1401/" . "Project-2/")
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/" . "Workshop7/")
+ ("/Users/i2n2z/Documents/Zines/" . "Outspoken-Pride/")
+ ("/Users/i2n2z/Documents/Physics/" . "PHYS1200Workshops/")
+ ("/ssh:i2n2z@ssh.ucc.asn.au:" . "Code/")
+ ("/Users/i2n2z/Documents/2ndBrain/2ndBrain/" . "Dailies/")
+ ("/Users/i2n2z/Documents/2ndBrain/" . "2ndBrain/")
+ ("/Users/i2n2z/Documents/" . "Physics/")
+ ("/Users/i2n2z/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/i2n2z/.emacs.d/"
+ "/Users/i2n2z/Documents/Physics/PHYS1200Workshops/"
+ "/Users/i2n2z/.emacs.d/config/"
+ "/Users/i2n2z/Downloads/"
+ "/Users/i2n2z/Documents/"
+ "/Users/i2n2z/Documents/Projects/my-t3-app/src/pages/"
+ "/Users/i2n2z/Documents/Projects/my-t3-app/"
+ "/Users/i2n2z/"
+ "/Users/i2n2z/Documents/Projects/"
+ "/Users/i2n2z/Documents/Projects/my-app/src/"
+ "/Users/i2n2z/Documents/Projects/my-app/"
+ "/Users/i2n2z/Documents/Projects/vue-project/src/components/"
+ "/Users/i2n2z/Documents/Projects/vue-project/src/"
+ "/Users/i2n2z/Documents/Projects/vue-project/"
+ "/Users/i2n2z/Documents/Documentation/vuejs/src/examples/"
+ "/Users/i2n2z/Documents/Documentation/vuejs/"
+ "/Users/i2n2z/Documents/McCusker/"
+ "/Users/i2n2z/Documents/Projects/text-editor/src/"
+ "/Users/i2n2z/Documents/Projects/text-editor/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop7/"
+ "/Users/i2n2z/Documents/Zines/Outspoken-Pride/"
+ "/Users/i2n2z/Documents/Projects/TestProject/"
+ "/Users/i2n2z/Documents/Coq/"
+ "/Users/i2n2z/Documents/CITS1401/Project-2/"
+ "/Users/i2n2z/Documents/CITS1401/Project-1/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop4/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop6/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop5/"
+ "/Users/i2n2z/Documents/Zines/Piffle/"
+ "/Users/i2n2z/Documents/Physics/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/"
+ "/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop3/"
+ "/Users/i2n2z/Documents/CITS1401/"
+ "/ssh:i2n2z@ssh.ucc.asn.au:Code/"
+ "/ssh:i2n2z@ssh.ucc.asn.au:public-html/"
+ "/ssh:i2n2z@ssh.ucc.asn.au:/home/ucc/i2n2z/public-html/"
+ "/Users/i2n2z/Documents/webpage/"
+ "/Users/i2n2z/Documents/OneDrive/University/PHYS1100/"
+ "/Users/i2n2z/Documents/2ndBrain/2ndBrain/Dailies/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "23315008-EntanglementExperiments.pdf"
+ "pretty.el"
+ "WorkshopSubmission.pdf"
+ "WorkshopSubmission.tex"
+ "PlottedData0Deg.png"
+ "Workshop-EntanglementExperiment.nb"
+ "PHYS1002 Computational Lab 1.nb"
+ "Uni-Break-TODO.org"
+ "UniSFA-Masterplan.org"
+ "index.tsx"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/i2n2z/.emacs.d/" (25402 10285 481806 739000) ".lsp-session-v1" ".cache/" ".git/" "elpa/" ".gitignore" "init.el" "auto-save-list/" "custom.el" "straight/" "transient/" "tramp" "projectile-bookmarks.eld" ".graphene-geometry" "elpy/" "config/" "eshell/" "smex-items" "init.el~" "ido.last" "snippets/" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1200Workshops/" (25396 59402 735560 861000) "23315008-EntanglementExperiments.pdf" "WorkshopNotes-LightThroughWall.nb" "RawData.xlsx" "ProbDist45Deg.png" "WorkshopSubmission.blg" "WorkshopSubmission.log" "WorkshopSubmission.aux" "PlottedData45Deg.png" "WorkshopSubmission.tex.bbl" "WorkshopSubmission.tex.blg" "ProbDist0Deg.png" "apparatus.png" "WorkshopSubmission.bbl" "Workshop-EntanglementExperiment.nb" "PlottedData0Deg.png" "WorkshopSubmission.bcf" "WorkshopSubmission.run.xml" ".DS_Store" "WorkshopSubmission.out" "WorkshopSubmission.tex" "../" "./")
+
+ ("/Users/i2n2z/.emacs.d/config/" (25400 3997 443938 833000) "~/" "project-management.el~" "pretty.el" "autocomplete.el~" "project-management.el" "autocomplete.el" "programming-utils.el" "lisp.el" "web.el" "startup.el" "../" "./")
+
+ ("/Users/i2n2z/" (25398 15152 706636 91000) ".slime/" ".conda/" ".zsh_sessions/" ".viminfo" ".bash_history" "quicklisp/" ".cache/" ".python_history" "Downloads/" ".oh-my-zsh/" ".nx/" ".swiftpm/" ".aspell.en.pws" "Documents/" ".npm/" ".ghcup/" ".pnpm-state/" ".zcompdump" ".jupyter/" ".aspell.en.prepl" ".slime-history.eld" ".Trash/" ".screenrc" ".zcompdump-Lorenzo’s MacBook Pro-5.8" ".zcompdump-Lorenzo’s MacBook Pro-5.8.1" ".tracker.prefs" ".degit/" ".ghc/" ".profile" "Applications/" "Movies/" ".ssh/" "Public/" ".cups/" ".cargo/" ".node_repl_history" ".emacs.d/" "Zotero/" ".oracle_jre_usage/" ".lesshst" ".mputils/" "Tracker/" "Library/" "Desktop/" ".ipython/" ".opam/" ".zsh_history" ".zprofile" ".bun/" ".irssi/" "Pictures/" ".local/" ".sbclrc" ".zshrc" ".zshrc.pre-oh-my-zsh" ".cabal/" ".w3m/" ".CFUserTextEncoding" ".yarnrc" ".gnupg/" ".DS_Store" "go/" ".qt/" ".condarc" ".zprofile.pysave" ".julia/" "Music/" ".config/" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/" (25396 14921 946074 906000) "LSW_data_processing.nb" "FFT_sweep_2048.txt" "PHYS1100Workshops/" "Standing Waves (Sound).pdf" "Resonance_Example_Questions_with_Solutions.pdf" "LSW_data_processing_fixed.nb" "MathWriteUp.tex" "PHYS1200Workshops/" ".DS_Store" "../" "./")
+
+ ("/Users/i2n2z/Documents/" (25396 17821 276513 22000) "OpenTTD/" "Zines/" "LaTeX-Things/" "UniSFA Stuff/" "Surf Life Saving/" ".test.aux" "Wolfram Mathematica/" "Physics/" "Philosophy/" "2ndBrain/" "legacyfix.jar" "Books/" "Cerebrum-Novum/" "Tracker/" "gmail.jpg" "Homestuck/" "CITS1401/" "Projects/" "Health-Professional-Report-Form.pdf" "McCusker/" ".localized" ".DS_Store" "Documentation/" ".makefile.d" "NoMachine/" "curseforge/" "../" "./")
+
+ ("/Users/i2n2z/Documents/LaTeX-Things/" (25396 11989 533655 239000) ".DS_Store" "../" "./")
+
+ ("/Users/i2n2z/Downloads/" (25378 53106 292018 437000) "Incorporated associations Sample Incorporated association financial reports.doc" "weedcat.webp" "Mango Pack Beta 1.7.3.zip" "The.Unofficial.Homestuck.Collection-2.0.5.dmg" "Alcoa_Vacation_Student_Program_-_2022_2023.eml" "LSW_data_processing.nb" "jez-timms-vTKLujPJecw-unsplash.jpg" "attempt.php" "Extended_Labs.docx" "22altaria_curledTrans2(1).svg" "SPG_template_2021.xlsx" "Galaxies.png" "DDLVID.COM-1544132159983714306.mp4" "20220708_120653.mp4" "CommunityLibraryFlyer.png" "D2A_9494.JPG" "E4E-Invitation.png" "Rolling Ball(2).png" "sample_face_data.csv" "Receipt_WP1358760.pdf" "Mathematical and Theoretical(2).png" "Meeting_1_15_03_2021.html" "Coq-Platform-release-2022.04.0-version.8.15.2022.04-macos-signed.dmg" "Roboto_Condensed/" "Extended_Labs(1).docx" "IntroductionForPhysicsLab.docx" "cal.ics" "E4E-Invitation.pdf" "Cairo,Yanone_Kaffeesatz(1).zip" "GamesStoreBusinessPlan.docx" "edge_cake_2x.png" "Division of.pdf" "ENROLMENT FORM 1.pdf" "asymmetry_sample.csv" "Guide_to_changing_your_legal_name_in_WA_2020_-_TransFolk_of_WA.pdf" "LeagueGothic-1.601.zip" "Lorenzo Timesheet.docx" "Meeting_2_Charity_Vigil_Subcommittee_01_04_2022.md" "Libby in the Garden.jpg" "UniSFALogo.png" "legacyfix(1).jar" "SelfControl-4.0.2.zip" "5c21350b954f9f60047f9f2e43af72f8.png" "Install League of Legends oc1.zip" "20220708_120536.mp4" "haaaalp.webp" "Raffle.jpg" "PHYS1200- Lab 5.xlsx" "UnitedWayMGC2.png" "noquorum.jpg" "Circular motion diagram.png" "gn10_WideBand_5MHz_Example(1).rad" "ratdoom.jpg" "Logo Vector.svg" "camhallquiznight2022poster.png" "idealism_objections.docx" "guitar.jpg" "UnitedWayPic1.jpg" "kwiz nite twenty22 - WIP(1).pptx" "Working through goals E4E.jpg" "steam.dmg" "fox.jpg" "Files(2).zip" "extended_nfpa_hazard_diamond_2x.png" "rainbowlogos.svg" "Meeting_1_15_03_2021(1).html" "Rolling Ball(3).png" "SRT Sky Viewer App v6.nb" "redditsave.com_at_least_he_tried_his_best-bep4j4zdua991.mp4" "Experimental(1).png" "Special Consideration Policy.doc" "meirl.webp" "Medical(2).png" "Galaxy Data 2022.xlsx" "music round stuff-20220915T054503Z-001.zip" "Obsidian-0.15.9-universal.dmg" "Invoice20.pdf" "UP11_49-Graduation-Academic-Dress-Schedule-A.docx" "Unigameslogo" "Roboto/" "UnitedWayLogo.jpg" "coq-8.15.1-reference-manual.pdf" "CH_Quiz_2020.pdf" "gang.jpg" "Copy of Untitled(1).png" "sample_face_data(1).csv" "server-1.0.6(1).zip" "henry-be-TCsCykbwSJw-unsplash.jpg" "Physics Talks - Astrophysics(1).png" "Files.zip" "kitty3.webp" "22altaria_curledTrans2.svg" "IMG_20220819_154247906_HDR.jpg" "certificate-OL2026237.pdf" "Physics Talks - Astrophysics.png" "coq-8.15.1-reference-manual-1.pdf" "CH_Quiz_2020-1.pdf" "CampPoster-export.pdf" "redditsave.com_after_a_few_catnip_beers-24kffy1yowg91.mp4" "DDLVID.COM-1544200722530463745.mp4" "discord_backup_codes.txt" "IMG_20220317_194503770.dng" "Cairo,Yanone_Kaffeesatz(1)/" "jeff-wang-g8klWqX0dQ4-unsplash.jpg" "CITS1401_markingGuide_testingFiles_S1_2022.zip" "Wolfram Mathematica 13.0 and English Documentation/" "download20220700125451.png" "Phys1100 Data Analysis.xlsx" "adrien-olichon-_kNEgjza0t8-unsplash.jpg" "CITS1401_markingGuide_testingFiles_S1_2022/" "fmri_billboard_2x.png" "kwiz nite twenty22 - WIP.pIFJbXwO.pptx.part" "sotrue.jpg" "kittycat.webp" "20220708_130421.mp4" "EnrollmentForm.pdf" "2022-04-27 - Citizenship Certificate - Lorenzo.pdf" "22.07.21 Pre-placement modules_self-enrolment guide(1).docx" "Roboto.zip" "D2A_9606(1).JPG" "emote.png" "D2A_9557.JPG" "Pesterchum-Discord-v1.3.12.zip" "fuckmargaretthatcher.png" "valentino-mazzariello-Ndm1hhIcwHc-unsplash.jpg" "gn10WideBandv2.txt" "Unigames_SPG_Semester_1_2020.docx" "Prizes.jpg" "appointment.ics" "UCC_Committee_Meeting_Minutes_2022-09-07.md" "Cairo,Yanone_Kaffeesatz.zip" "Phys1100ExtendedLabReport.pdf" "legacyfix.jar" "LeagueGothic-1.601/" "pfphours.jpg" "Asset Pack V2 - The Unofficial Homestuck Collection.zip" "Q7.pdf" "Mathematical and Theoretical.png" "Social Sciences Division - DCL guidance.docx" "itsmorbintime.webm" "Math.png" "Q6.pdf" "H-Uncertainties-Intro.ppt" "20220708_102454.mp4" "Physics_Lab.xlsx" "paint_the_town_read_logo-removebg-preview.png" "Email - Licence and Statement 1055265.pdf" "All+the+Mods+7+-+To+the+Sky-1.0.6/" "McCusker Centre for Citizenship - Internship Timesheet(1)(1).docx" "22altaria_straightTrans2.png" "redditsave.com_telling_iek_he_cant_have_a_free_cookie-s4gnj1h33i271.mp4" "Copy of Untitled.png" "Resonance_22e.nb" "Quantum Computation(1).png" "Unigames_SPG_Semester_2_2021.pdf" "Cat1.webp" "22altaria_curledTrans2(1).png" "recovery_codes(1).txt" "CatLovers.webp" "gimp-2.99.10-x86_64.dmg" "kitty2.webp" "CITS1401_Project2_S1_2022_marking_guide_testing_files/" "IMG_20220912_082229583.jpg" "D2A_9419.JPG" "IDs/" "Galaxy Data 2022(1).xlsx" "Install Spotify.app/" "-skull-.mp4" "Higher Doctorates Policy.doc" "Install League of Legends oc1.app/" "quack.webm" "1g4isjozfrs81.png" "Example Notebook.nb" "IntroductionForPhysicsLab(1).docx" "EpicInstaller-13.0.0.dmg" "Stellarium.app/" "subcommittee_regulations_2018_2.pdf" "Quantum Computation.png" "SRT Script Writer App v11.nb" "family_reunion_2x.png" "yes.jpg" "physics.jpg" "Q9.pdf" "control_group_2x.png" "nevergiveup.webp" "Physics Talks - Astrophysics(3).png" "UWA_Tavern_Student_Quiz_Night_Event_Pack.pdf" "onlinetraining.pdf" "doc3474511.RTF" "Pesterchum-Discord-v1.3.12/" "Right Angle Triangle.png" "Miniforge3-MacOSX-arm64.sh" "category-theory-for-programmers.pdf" "SpotifyInstaller.zip" "genshin-impact-gorou.mp4" "22altaria_curledTail.svg" "Yanone_Kaffeesatz.zip" "recovery_codes.txt" "IMG_20220819_154257888_HDR.jpg" "Roboto_Condensed.zip" "Supervisor Feedback 2(1)(1).docx" "Perry, John (1977) - A Dialogue on Personal Identity and Immortality_rotated.pdf" "dn2x09y9cyw81.webp" "PractiseTest-23315008.pdf" "UNIGAMES-LOGO.png" "BetterDiscord-Mac.zip" "ProofGeneral.pdf" "SRT Script Writer App v11(1).nb" "gmail.jpg" "shrimp.webp" "DeedPoll- Lorenzo-Actual.docx" "IntroductionForPhysicsLab(3).docx" "littleone.webp" "meirl.jpg" "Cairo,Yanone_Kaffeesatz/" "UniSFA SPG Semester 2 2022.pdf" "discord-event.ics" "insert 5 September 2022.pdf" "ucc-logo.svg" "Phys1100ExtendedLabReport.docx" "Camp Poster.pdf" "anki-2.1.53-mac-apple-qt6.dmg" "jermanooo.mp4" "optical_resonators.pdf" "Incorporated associations Sample Incorporated association financial reports(1).doc" "unknown.png" "Wolfram Mathematica 13.1 and English Documentation/" "Q10.pdf" "outlet_denier_2x.png" "Video 2772 [www.reddit.watch].mp4" "ProposalTemplateDomestic.docx" "Perry, John (1977) - A Dialogue on Personal Identity and Immortality_rotated-1.pdf" "Phys1100ExtendedLabReport(1).docx" "D2A_9605.JPG" "CircularMotion.png" "Stellarium-0.22.1-arm64.zip" "stemboification.png" "wip_darkmittee_handover.pdf" "Poster.pdf" "shadowcard.jpg" "Physics Talks - Astrophysics(2).png" "DDLVID.COM-1550419986468012034.mp4" "redditsave.com_telling_iek_he_cant_have_a_free_cookie-s4gnj1h33i271-360.mp4" "osdc_correspondent-yearbook_2021-22.zip" "9a5p9MEF.html" "kwiz nite twenty22 - WIP.pptx" "p1100_your-initials_longitude.cmd" "pocketcat.webp" "Phys1100ExtendedLabReport_1.docx" "PurchaseInvoice-18514592.pdf" "D2A_9606.JPG" "Medical.png" "Experimental.png" "macsfancontrol.zip" "full SOs 2Aug2022.pdf" "wimdy.jpg" "BetterDiscord.app/" "Tracker-6.0.9-osx-installer.dmg" "common_cold_viruses_2x.png" ".localized" "JavaUninstallTool.dmg" "Experimental(2).png" "clojureforthebraveandtrue.pdf(1).torrent" "Medical(1).png" "giammarco-eWpBNXRHfTI-unsplash.jpg" "Stellarium-0.22.1-arm64(1).zip" "Skedudle.png" "IntroductionForPhysicsLab(2).docx" "d65536_2x.png" "CommunityLibraryFlyer(1).png" "Document-2.docx" "pocketcat.png" "Beans #Shorts.mp4" "gn10_WideBand_5MHz_Example.rad" "test/" "Rubrics Described PHIL1001 (2021)4docx.docx" "doc3469047(1).RTF" "Permanent_Marker.zip" "doc3469051.RTF" "doc3469047.RTF" "2022-04-22 - Lorenzo - Certified Passport Copy - Photo Page Only.pdf" "streetwear.regular.otf" "Lorenzo Supervisor Feedback.docx" "Transmission-3.00.dmg" "neg40 Analysis.xlsx" "e608802c-microsoftteams-image-5-1024x427.jpg" "1-s2.0-S0016328717302732-main.pdf" "Hampter.jpg" "funnyimage.webp" "Geologist.mp4" "DataLab3.xlsx" "index.png" "CH_Quiz_2017_Table.pdf" "install70.iso" ".DS_Store" "PHYS1002 Computational Lab 1.nb" "Adium_1.5.10.4.dmg" "CITS1401_Project2_S1_2022_marking_guide_testing_files.zip" "Velocity_and_Acceleration_of_the_Planets.pdf" "Physics Talks - Astrophysics(5).png" "Quiz_Night_Marking_Template.xlsx" "install" "CM015 Bachelor of Science Frontier Physics and Master of Physics.docx" "Files(1).zip" "abo-incognito1.jpg" "Unigames_SSPG_2021_CAN_HALL.pdf" "SLS Activity Safety (Risk) Plan.doc" "Mathematical and Theoretical(1).png" "Humanities - DD guidance.docx" "Are Emotions Irrational.pdf" "ryan-lum-1ak3Z7ZmtQA-unsplash.jpg" "Physics Talks - Astrophysics(4).png" "IllegallySmall.webp" "CH_Quiz_2017.pdf" "osdc_correspondent-yearbook_2021-22/" "newpfpquestionmark.jpg" "G1007986.pdf" "carnivalee-freakshow.regular.ttf" "UNIGAMES-LOGO.svg" "abo-incognito.jpg" "5etools.json" "lesbianswhen.mp4" "WLDocs_13.0.1_MAC_EXP.dmg" "All+the+Mods+7+-+To+the+Sky-1.0.6.zip" "jre-8u341-macosx-x64.dmg" "trim.2308DDE6-36F3-4732-BB84-EF897C90CE89-1.mov" "blox-brk.regular.ttf" "internship-deed.doc" "University guidance - printable version.docx" "server-1.0.6.zip" "Chapter 6.pdf" "Rolling Ball.png" "4c6rppvv6ow81.webp" "HLSPlaylist.m3u8" "Physics_Lab_Writeup.docx" "DDLVID.COM-1554227148793098240.mp4" "Permanent_Marker/" "uwu.webp" "curseforge-latest.dmg" "Unigameslogo.svg" "PurchaseInvoice-18514592-1.pdf" "Experimental(3).png" "UCC_Committee_Meeting_Minutes_2022-08-02_1.md" "McCusker Centre for Citizenship - Internship Timesheet(1).docx" "Rolling Ball(1).png" "2022-Treasurer-Training.pdf" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/my-t3-app/src/pages/" (25312 44729 76251 493000) "_app.tsx" "api/" "index.tsx" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/my-t3-app/src/" (25312 44729 73907 196000) "pages/" "styles/" "env/" "utils/" "server/" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/my-t3-app/" (25312 44849 984471 304000) "src/" ".eslintrc.json" ".git/" "tsconfig.json" ".env" "package.json" "package-lock.json" ".gitignore" "tailwind.config.cjs" "public/" "README.md" "next-env.d.ts" "prisma/" "node_modules/" "postcss.config.cjs" "next.config.mjs" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/" (25297 20943 856273 979000) "vue-project/" "my-app/" "Freedom.tex" "Freedom.org" "my-t3-app/" "Freedom.pdf" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/my-app/src/" (25296 55745 491836 287000) "logo.svg" "assets/" "MyComponent.tsx" "index.css" "App.module.css" "TestComponent.tsx" "App.tsx" "index.tsx" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/my-app/" (25296 276 196549 597000) "src/" "vite.config.ts" "tsconfig.json" ".eslintrc.js" "package.json" "package-lock.json" ".gitignore" "README.md" "node_modules/" "dist/" "index.html" "pnpm-lock.yaml" "../" "./")
+
+ ("/Users/i2n2z/.emacs.d/elpa/slime-20220515.746/" (25229 54137 457551 598000) "slime-autoloads.el" "lib/" "start-swank.lisp" "dir" "slime.info" "slime-tests.el" "slime.el" "contrib/" "swank.asd" "xref.lisp" "swank.lisp" "swank/" "slime.elc" "nregex.lisp" "sbcl-pprint-patch.lisp" "metering.lisp" "swank-loader.lisp" "slime-pkg.el" "slime-tests.elc" "packages.lisp" "../" "./")
+
+ ("/Users/i2n2z/.emacs.d/elpa/company-quickhelp-20211115.1335/" (25119 16285 173129 576000) "company-quickhelp-autoloads.el" "company-quickhelp-pkg.el" "company-quickhelp.elc" "company-quickhelp.el" "../" "./")
+
+ ("/Users/i2n2z/Desktop/" (25295 49000 736334 572000) ".localized" ".DS_Store" "Screenshots/" "../" "./")
+
+ ("/Users/i2n2z/.emacs.d/auto-save-list/" (25295 57969 426750 745000) ".saves-54021-Lorenzos-MacBook-Pro.local~" ".saves-29053-lorenzos-mbp.lan~" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/vue-project/src/components/" (25289 18745 676550 87000) "TheWelcome.vue" "WelcomeItem.vue" "icons/" "HelloWorld.vue" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/vue-project/src/" (25289 18943 149989 100000) "assets/" "components/" "main.ts" ".#App.vue" "App.vue" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/vue-project/" (25289 18779 530140 566000) "src/" ".vscode/" "vite.config.ts" "tsconfig.config.json" "tsconfig.json" "package.json" "package-lock.json" ".gitignore" "public/" "README.md" "env.d.ts" "node_modules/" "index.html" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/examples/" (25239 4902 769154 593000) "src/" "examples.data.ts" "index.md" "utils.ts" "ExampleRepl.vue" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/partners/" (25239 4902 787643 74000) "devsquad.md" "all.md" "curotec.md" "index.md" "components/" "redberry.md" "vehikl.md" "monterail.md" "partners.json" "passionatepeople.md" "webreinvent.md" "64robots.md" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/tutorial/" (25289 18372 241510 754000) "src/" "tutorial.data.ts" "index.md" "TutorialRepl.vue" ".#tutorial.data.ts" "../" "./")
+
+ ("/Users/" (25209 34824 0 0) "i2n2z/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/sponsor/" (25239 4902 793934 623000) "index.md" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/public/" (25239 4902 793818 7000) "logo.svg" "service-worker.js" "_headers" "_redirects" "images/" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/src/" (25239 4902 794874 656000) "translations/" "style-guide/" "api/" "sponsor/" "examples/" "partners/" "index.md" "public/" "about/" "tutorial/" "ecosystem/" "guide/" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/vuejs/" (25239 4997 764645 731000) "src/" ".git/" "tsconfig.json" ".prettierrc" ".github/" "package.json" ".gitignore" "README.md" ".editorconfig" "env.d.ts" "node_modules/" "netlify.toml" ".vitepress/" "LICENSE" "pnpm-lock.yaml" "../" "./")
+
+ ("/Users/i2n2z/Documents/Documentation/" (25265 20673 5497 710000) "Napkin_v1.5.20220408.pdf" "LaTeX.pdf" "rust/" "vuejs/" "5etools/" ".DS_Store" "../" "./")
+
+ ("/Users/i2n2z/Documents/vuejs.org/.github/" (25239 4692 641746 679000) "pull_request_template.md" "../" "./")
+
+ ("/Users/i2n2z/Documents/vuejs.org/src/menu/" (25239 4692 675704 942000) "index.md" "../" "./")
+
+ ("/Users/i2n2z/Documents/vuejs.org/src/" (25239 4692 676236 950000) "coc/" "perf/" "support-vuejs/" "menu/" "index.md" "v2/" "resources/" "_posts/" "images/" "../" "./")
+
+ ("/Users/i2n2z/Documents/vuejs.org/assets/" (25239 4692 659178 526000) "props_and_events.ai" "why-vue/" "icons.psd" "mvvm.ai" "data.ai" "state.ai" "logo.ai" "lifecycle.ai" "hn-architecture.ai" "../" "./")
+
+ ("/Users/i2n2z/Documents/vuejs.org/" (25239 4692 734993 629000) "src/" "themes/" "assets/" ".git/" ".github/" ".nvmrc" "_config.yml" "package.json" ".gitignore" "writing-guide.md" "yarn.lock" "README.md" ".editorconfig" "LICENSE" "pre-deploy.js" "../" "./")
+
+ ("/Users/i2n2z/Documents/Wolfram Mathematica/" (25140 21115 528147 751000) ".DS_Store" "Documentation/" "../" "./")
+
+ ("/Users/i2n2z/Documents/McCusker/" (25265 23593 913964 397000) "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/text-editor/src/" (25236 5293 939167 500000) "main.rs" "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/text-editor/" (25236 5314 876489 517000) "src/" ".git/" ".gitignore" "Cargo.toml" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop7/" (25234 60772 785926 761000) "p1100_LI_neg84.cmd" "p1100_LI_neg40.txt" "p1100_LI_neg40.cmd" "Workshop7.tex" "Makefile" "Workshop-Notes.org" "p1100_LI_neg84.txt" ".DS_Store" "AnalysisOfNeg84.xlsx" "../" "./")
+
+ ("/Users/i2n2z/Documents/Zines/Outspoken-Pride/" (25234 808 383635 989000) ".#CapitalismAndGender.org" "QueerPlatonic.org" "KillTheTransphobe.org" "CapitalismAndGender.org" "../" "./")
+
+ ("/Users/i2n2z/Documents/Zines/UPS/" (25157 6655 672755 539000) "../" "./")
+
+ ("/Users/i2n2z/Documents/Projects/TestProject/" (25229 54342 369434 529000) "TestProject.lisp" "TestProject.asd" "README.md" "package.lisp" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/" (25222 55998 735060 940000) "Table1.png" "Workshop4/" "Workshop3/" "LogVelocityOfPlanets.csv" "Workshop2/" "Workshop5/" ".DS_Store" "Workshop7/" "Workshop8/" "Workshop6/" "VelocityOfPlanets.csv" "../" "./")
+
+ ("/Users/i2n2z/Documents/Coq/" (25221 58308 780531 526000) "commutivity_of_addition.v" "../" "./")
+
+ ("/Users/i2n2z/Documents/CITS1401/Project-2/" (25216 30037 879535 504000) "sample_face_data.csv" "ProjectBrief.pdf" "23315008.py" ".mypy_cache/" "../" "./")
+
+ ("/Users/i2n2z/Documents/CITS1401/Project-1/" (25215 19536 23369 389000) "asymmetry_sample(1).csv" "23315008.py" ".mypy_cache/" "__pycache__/" ".DS_Store" "sample_asymmetry_data_testing_2.csv" "../" "./")
+
+ ("/Users/i2n2z/Documents/PDFs/" (25132 43150 408671 504000) "algorithmicthinking_aproblem-basedintroduction.pdf" "../" "./")
+
+ ("/Users/i2n2z/Documents/CITS1401/" (25209 50055 947489 261000) "data.txt" "lab8_object_files/" "Lab4.py" "Project-1/" "Bibliography.bib" "lab8_object_files.zip" "books.csv" "Project-2/" "scipy-test.py" ".DS_Store" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop6/" (25196 60375 463304 982000) "Makefile" "Workshop6.tex" "Workshop-Notes.org" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop5/" (25196 59403 218360 155000) "workshop5.tex" "Makefile" "workshop5.pdf" ".#workshop5.tex" "../" "./")
+
+ ("/Users/i2n2z/Documents/CITS1401/Project-1/__pycache__/" (25174 27391 780184 115000) "project.cpython-310.pyc" "../" "./")
+
+ ("/Users/i2n2z/Documents/Zines/Piffle/" (25166 24875 784140 391000) "DeadHeart.org" "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop4/" (25167 31269 194791 261000) "Workshop4.tex" "Makefile" ".DS_Store" "Workshop4.pdf" "../" "./")
+
+ ("/Users/i2n2z/Documents/Kernels/" (25162 22641 221230 457000) "../" "./")
+
+ ("/Users/i2n2z/Documents/Physics/PHYS1100Workshops/Workshop3/" (25161 4767 912981 977000) "Workshop.pdf" "Workshop3.tex" "../" "./")
+
+ ("/Users/i2n2z/Documents/Zines/" (25157 6725 414019 345000) "Piffle/" "Outspoken-Pride/" "UPS/" "../" "./")
+
+ ("/Users/i2n2z/Documents/webpage/" (25129 39081 964560 577000) "CreamingSodaCountdown.html" "../" "./")
+
+ ("/Users/i2n2z/Documents/OneDrive/" (25121 29575 718852 262000) ".849C9593-D756-4E56-8D6E-42412F2A707B" "Document.docx" "Commencement.docx" "Attachments/" "RedCrossCoverLetter.docx" "Documents/" "OneDrive - iswa.wa.edu.au/" "Resume.docx" "University/" "Pictures/" "QuarkTheatreCo-BusinessPlan-Draft2.pdf" "QuarkTheatreCo-BusinessPlan-Draft3.pdf" "QuarkTheatreCo-BusinessPlan-Draft1.pdf" ".DS_Store" "QuarkTheatreCo-BusinessPlan-Draft4.pdf" "HamptonsCoverLetter.docx" "../" "./")
+
+ ("/Users/i2n2z/Documents/OneDrive/University/PHYS1100/" (25121 30334 973203 859000) "WorkshopWeek1.aux" "WorkshopWeek1.log" "WorkshopWeek1.pdf" "WorkshopWeek1.tex" "../" "./")
+
+ ("/Users/i2n2z/Documents/OneDrive/University/" (25121 29534 131646 783000) "../" "./")
+
+ ("/Users/i2n2z/Documents/2ndBrain/2ndBrain/Dailies/" (25116 44522 81305 938000) "20220226.md" "../" "./")
+
+ ("/Users/i2n2z/Documents/2ndBrain/2ndBrain/" (25118 63566 898059 300000) "Permanent/" ".trash/" "Fleeting Notes/" "Dailies/" ".obsidian/" "Other/" "References/" ".DS_Store" "../" "./")
+
+ ("/Users/i2n2z/Documents/2ndBrain/" (25118 60751 481736 986000) "2ndBrain/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

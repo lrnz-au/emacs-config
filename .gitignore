@@ -1,0 +1,14 @@
+auto-save-list/
+.cache
+.graphene-geometry
+custom.el
+straight
+tramp
+transient
+snippets
+smex-items
+projectile-bookmarks.eld
+elpa
+elpy
+eshell
+.lsp-session-v1
