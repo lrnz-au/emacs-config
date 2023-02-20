@@ -2,6 +2,8 @@
 (setq initial-scratch-message
       (shell-command-to-string "/opt/homebrew/bin/fortune | /opt/homebrew/bin/cowsay"))
 
+(setq initial-major-mode 'text-mode)
+
 (setq dotfiles-dir "~/.emacs.d/")
 (setq custom-file (concat dotfiles-dir "custom.el"))
 
@@ -21,4 +23,7 @@
 
 (setq ispell-program-name "/opt/homebrew/bin/aspell")
 
-(use-package graphene)
+(use-package graphene
+  :config
+  (setq graphene-linum-auto nil)
+  (setq graphene-default-font "Ubuntu Mono 16"))

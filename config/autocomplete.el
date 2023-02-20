@@ -23,6 +23,7 @@
          (typescript-mode . lsp)
          (rjsx-mode . lsp)
          (web-mode . lsp)
+         (astro-mode . lsp)
          (c-mode . lsp)
          (c++-mode . lsp)
          (lsp-mode . lsp-enable-which-key-integration)))
@@ -34,3 +35,4 @@
   (global-flycheck-mode)
   :hook (
          (after-init .  (lambda () global-flycheck-mode))))
+

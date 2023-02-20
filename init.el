@@ -12,21 +12,24 @@
       (eval-print-last-sexp)))
   (load bootstrap-file nil 'nomessage))
 
-(setq package-enable-at-startup nil) ;; We include this to disable package.el
+; Disable package.el
+(setq package-enable-at-startup nil)
 
 ;; Enable (use-package) with Straight.el
-
 (straight-use-package 'use-package)
 (setq straight-use-package-by-default t)
 
+(set-frame-font "Ubuntu Mono 16" nil t)
+
 ;; Load Startup.el
 (load "~/.emacs.d/config/startup.el")
+
+(setq org-latex-caption-above nil)
 
 ;; Get other configs
 
 (defun load-directory (dir)
   (let ((load-it (lambda (f)
-		   (load-file (concat (file-name-as-directory dir) f)))
-		 ))
+		   (load-file (concat (file-name-as-directory dir) f)))))
     (mapc load-it (directory-files dir nil "\\.el$"))))
 (load-directory "~/.emacs.d/config/")

@@ -24,3 +24,8 @@
   (yas-global-mode 1))
 
 (use-package vterm)
+
+;; Org Mode things
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((latex . t)))
