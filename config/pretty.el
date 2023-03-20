@@ -52,3 +52,5 @@
                             (olivetti-set-width 110)))
 
 (use-package pdf-tools)
+
+(setq org-format-latex-options '(:scale 2.0))

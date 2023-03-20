@@ -23,6 +23,11 @@
 
 (setq ispell-program-name "/opt/homebrew/bin/aspell")
 
+(setq org-agenda-files '("~/Documents/University/Todos/"))
+(setq org-agenda-span 10)
+(setq org-agenda-start-on-weekday nil)
+(bind-key (kbd "C-c a") 'org-agenda)
+
 (use-package graphene
   :config
   (setq graphene-linum-auto nil)

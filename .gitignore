@@ -14,3 +14,6 @@ eshell
 .lsp-session-v1
 /.org-id-locations
 /projectile.cache
+ido.last
+/org-roam.db
+/bookmarks

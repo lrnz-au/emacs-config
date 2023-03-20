@@ -29,3 +29,16 @@
 (org-babel-do-load-languages
  'org-babel-load-languages
  '((latex . t)))
+
+(use-package org-present)
+
+(eval-after-load "org-present"
+  '(progn
+     (add-hook 'org-present-mode-hook
+               (lambda ()
+                 (org-present-big)
+                 (org-display-inline-images)))
+     (add-hook 'org-present-mode-quit-hook
+               (lambda ()
+                 (org-present-small)
+                 (org-remove-inline-images)))))

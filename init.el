@@ -14,6 +14,7 @@
 
 ; Disable package.el
 (setq package-enable-at-startup nil)
+(straight-use-package 'org)
 
 ;; Enable (use-package) with Straight.el
 (straight-use-package 'use-package)
